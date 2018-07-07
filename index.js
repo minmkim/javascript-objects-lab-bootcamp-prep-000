@@ -1,2 +1,2 @@
-var receipes = { food: "test" }
+var recipes = { food: "test" }
 
