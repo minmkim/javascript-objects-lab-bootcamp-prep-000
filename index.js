@@ -1,0 +1,2 @@
+var receipes = { food: "test" }
+
